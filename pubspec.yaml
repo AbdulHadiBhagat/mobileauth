@@ -6,8 +6,8 @@ version: 1.2.0+3
 dependencies:
   flutter:
     sdk: flutter
-  google_sign_in: "^3.0.4"
-  firebase_auth: "^0.5.15"
+  google_sign_in: 
+  firebase_auth: 
 
 dev_dependencies:
   flutter_test:
